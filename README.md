@@ -4,22 +4,22 @@ Tracking various trees
 
 ## GGP Conifers (/16)
 
-- [ ] White Spruce
+- [x] White Spruce
 - [ ] Black Spruce
-- [ ] Colorado Spruce
+- [x] Colorado Spruce
 - [ ] Norway Spruce
 - [ ] Eastern Hemlock
-- [ ] Balsam Fir
+- [x] Balsam Fir
 - [ ] Douglas Fir
 - [ ] Jack Pine
 - [ ] Scotch Pine
 - [ ] Austrian Pine
-- [ ] Red (Norway) Pine
+- [x] Red (Norway) Pine
 - [ ] Ponderosa Pine
-- [ ] Eastern White Pine
+- [x] Eastern White Pine
 - [ ] Tamarack
 - [ ] Eastern Redcedar
-- [ ] Eastern Whitecedar
+- [x] Eastern Whitecedar
 
 ## ENL2 Conifers  (/16)
 
