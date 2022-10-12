@@ -2,7 +2,7 @@
 
 Tracking various trees
 
-## GGP Conifers (/16)
+## GGP Conifers (6/16)
 
 - [x] White Spruce
 - [ ] Black Spruce
