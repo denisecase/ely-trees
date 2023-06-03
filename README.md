@@ -52,9 +52,9 @@ Tracking various trees
 - [ ] Jack Pine
 - [ ] Scotch Pine
 - [ ] Austrian Pine
-- [ ] Red (Norway) Pine
+- [x] Red (Norway) Pine
 - [ ] Ponderosa Pine
-- [ ] Eastern White Pine
+- [x] Eastern White Pine
 - [ ] Tamarack
 - [ ] Eastern Redcedar
 - [ ] Eastern Whitecedar
