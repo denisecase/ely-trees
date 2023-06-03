@@ -60,3 +60,9 @@ in progress
 - [ ] Tamarack
 - [ ] Eastern Redcedar
 - [ ] Eastern Whitecedar
+
+## Resources
+
+- [Trees of North America (Field Guide)](https://www.amazon.com/Trees-North-America-Introduced-Species/dp/0307136582/)
+- [Minnesota's native trees](https://www.dnr.state.mn.us/trees/native-trees.html)
+- [A Beginner’s Guide to MINNESOTA TREES](https://conservancy.umn.edu/bitstream/handle/11299/49816/6593.pdf)
