@@ -40,7 +40,9 @@ Tracking various trees
 - [ ] Eastern Redcedar
 - [x] Eastern Whitecedar
 
-## ENL2 Conifers  (?/16)
+## ENL2 Conifers  (2/16)
+
+in progress
 
 - [ ] White Spruce
 - [ ] Black Spruce
